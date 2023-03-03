@@ -1,0 +1,15 @@
+/Users/gulernurdonmez/visual studio/C#/Struct/bin/Debug/net6.0/Struct
+/Users/gulernurdonmez/visual studio/C#/Struct/bin/Debug/net6.0/Struct.deps.json
+/Users/gulernurdonmez/visual studio/C#/Struct/bin/Debug/net6.0/Struct.runtimeconfig.json
+/Users/gulernurdonmez/visual studio/C#/Struct/bin/Debug/net6.0/Struct.dll
+/Users/gulernurdonmez/visual studio/C#/Struct/bin/Debug/net6.0/Struct.pdb
+/Users/gulernurdonmez/visual studio/C#/Struct/obj/Debug/net6.0/Struct.csproj.AssemblyReference.cache
+/Users/gulernurdonmez/visual studio/C#/Struct/obj/Debug/net6.0/Struct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gulernurdonmez/visual studio/C#/Struct/obj/Debug/net6.0/Struct.AssemblyInfoInputs.cache
+/Users/gulernurdonmez/visual studio/C#/Struct/obj/Debug/net6.0/Struct.AssemblyInfo.cs
+/Users/gulernurdonmez/visual studio/C#/Struct/obj/Debug/net6.0/Struct.csproj.CoreCompileInputs.cache
+/Users/gulernurdonmez/visual studio/C#/Struct/obj/Debug/net6.0/Struct.dll
+/Users/gulernurdonmez/visual studio/C#/Struct/obj/Debug/net6.0/refint/Struct.dll
+/Users/gulernurdonmez/visual studio/C#/Struct/obj/Debug/net6.0/Struct.pdb
+/Users/gulernurdonmez/visual studio/C#/Struct/obj/Debug/net6.0/Struct.genruntimeconfig.cache
+/Users/gulernurdonmez/visual studio/C#/Struct/obj/Debug/net6.0/ref/Struct.dll
